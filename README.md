@@ -89,7 +89,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/monarch-009/monarch-009/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
