@@ -1,5 +1,5 @@
 <h2 align="left">🚀 Hello World! I'm Aditya Raj, a passionate Computer Science enthusiast from Bihar, India and I am currently navigating the fascinating world of technology in my third year at Lovely Professional University.<br><br>💻 My journey is fueled by a love for coding. I find joy in crafting digital experiences and solving complex problems.<br><br>📚 When I'm not immersed in code, you'll find me nose-deep in books or pouring my thoughts into articles on my blog. I believe in the power of words to inspire and share insights with the world.</h2>
-
+<!---
 ###
 
 <div align="center">
@@ -8,7 +8,7 @@
 </div>
 
 ###
-
+-->
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
