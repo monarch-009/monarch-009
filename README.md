@@ -1,4 +1,5 @@
 <h2 align="left">🚀 Hello World! I'm Aditya Raj, a passionate Computer Science enthusiast from Bihar, India and I am currently navigating the fascinating world of technology in my third year at Lovely Professional University.<br><br>💻 My journey is fueled by a love for coding. I find joy in crafting digital experiences and solving complex problems.<br><br>📚 When I'm not immersed in code, you'll find me nose-deep in books or pouring my thoughts into articles on my blog. I believe in the power of words to inspire and share insights with the world.</h2>
+
 <!---
 ###
 
@@ -8,7 +9,8 @@
 </div>
 
 ###
--->
+
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
@@ -67,6 +69,8 @@
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
 </div>
 
+
+
 ###
 
 <div align="left">
@@ -89,15 +93,18 @@
 
 ###
 
+-->
 
-<!---
+
+
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=monarch-009&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <!---
   <img src="https://github-profile-trophy.vercel.app?username=monarch-009&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=monarch-009&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
--->
