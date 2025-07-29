@@ -1,14 +1,7 @@
 <h2 align="left">🚀 Hello World! I'm Aditya Raj, a  Computer Science enthusiast from Bihar, India and I am currently navigating the fascinating world of technology in my final year at Lovely Professional University.<br><br>💻 My journey is fueled by a love for coding. I find joy in crafting digital experiences and solving complex problems.<br><br>📚 When I'm not immersed in code, you'll find me nose-deep in books or pouring my thoughts into articles on my blog. I believe in the power of words to inspire and share insights with the world.</h2> 
 
 <!---
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monarch-009&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monarch-009&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 
 <div align="left">
