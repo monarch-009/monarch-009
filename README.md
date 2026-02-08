@@ -11,7 +11,7 @@
 
 ### `> whoami`
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;AI%2FML+Explorer+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9;Tech+Blogger+%E2%9C%8D%EF%B8%8F;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;AI%2F+Explorer+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9;Blogger+%E2%9C%8D%EF%B8%8F;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" /></a>
 
 ```yaml
 name: "Aditya Raj"
