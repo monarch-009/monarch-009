@@ -1,106 +1,171 @@
-<h2 align="left">🚀 Hello World! I'm Aditya Raj, a  Computer Science enthusiast from Bihar, India and I am currently navigating the fascinating world of technology in my final year at Lovely Professional University.<br><br>💻 My journey is fueled by a love for coding. I find joy in crafting digital experiences and solving complex problems.<br><br>📚 When I'm not immersed in code, you'll find me nose-deep in books or pouring my thoughts into articles on my blog. I believe in the power of words to inspire and share insights with the world.</h2> 
-
-<!---
-
-
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-</div>
-
-
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/aditya-raj210904/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/MonarchWord" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/monarchword/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/MonarchWord/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="adityasinghmoni@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
--->
-
-
-
-###
-<!---
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=monarch-009&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  -->
-  <!---
-  <img src="https://github-profile-trophy.vercel.app?username=monarch-009&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  -->
-  <!---
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=monarch-009&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+```ascii
+ █████╗ ████████╗██╗████████╗██╗   ██╗ █████╗     ██████╗  █████╗      ██╗
+██╔══██╗╚══██╔══╝██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗    ██╔══██╗██╔══██╗     ██║
+███████║   ██║   ██║   ██║    ╚████╔╝ ███████║    ██████╔╝███████║     ██║
+██╔══██║   ██║   ██║   ██║     ╚██╔╝  ██╔══██║    ██╔══██╗██╔══██║██   ██║
+██║  ██║   ██║   ██║   ██║      ██║   ██║  ██║    ██║  ██║██║  ██║╚█████╔╝
+╚═╝  ╚═╝   ╚═╝   ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ 
+```
+
+### `> whoami`
+
+```yaml
+name: "Aditya Raj"
+location: "Bihar, India"
+education: "Final Year CS @ Lovely Professional University"
+interests: ["Full Stack Development", "Data Science", "Machine Learning"]
+current_status: "Building digital experiences & exploring AI"
+```
+
 </div>
 
-###
--->
+---
+
+## `$ cat about.txt`
+
+```console
+┌─[aditya@dev]─[~]
+└──╼ $ echo "Hello, World!"
+
+🎯 Full Stack Developer | 📊 Data Science Enthusiast | 🚀 Problem Solver
+
+A passionate computer science student from Bihar, India, currently navigating
+the fascinating intersection of web development and data science. I believe in
+writing clean code, building scalable solutions, and turning data into insights.
+
+When I'm not coding, you'll find me writing technical blogs, reading, or
+exploring the latest tech trends. I'm driven by curiosity and the desire to
+create meaningful impact through technology.
+```
+
+---
+
+## `$ ls -la tech-stack/`
+
+<div align="center">
+
+### **Languages**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
+### **Data Science & ML**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### **Tools & IDEs**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+</div>
+
+---
+
+## `$ ./current-focus.sh`
+
+```javascript
+const currentFocus = {
+  learning: ["Advanced React Patterns", "Machine Learning", "Cloud Architecture"],
+  building: ["Full Stack Web Applications", "Data Analytics Dashboards"],
+  exploring: ["MLOps", "System Design", "AI/ML Applications"],
+  improving: ["DSA", "Problem Solving", "Technical Writing"]
+};
+
+console.log("Always learning, always building! 🚀");
+```
+
+---
+
+## `$ cat stats.json`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=monarch-009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monarch-009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="165">
+
+<img src="https://streak-stats.demolab.com?user=monarch-009&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## `$ grep -r "connect" social-links/`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-raj210904/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MonarchWord)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/monarchword/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/MonarchWord/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasinghmoni@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+
+</div>
+
+---
+
+## `$ fortune | cowsay`
+
+```
+ _________________________________________
+/ "Code is like humor. When you have to  \
+| explain it, it's bad." - Cory House    |
+|                                         |
+\ Let's build something amazing together!/
+ -----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+
+---
+
+<div align="center">
+
+### `> exit`
+
+```
+Thanks for visiting! Feel free to explore my repositories and reach out for collaborations.
+
+💡 Open to opportunities | 🤝 Always ready to collaborate | 📧 Let's connect!
+```
+
+![](https://komarev.com/ghpvc/?username=monarch-009&color=58A6FF&style=for-the-badge)
+
+</div>
