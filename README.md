@@ -176,15 +176,15 @@ console.log("Next: World domination through clean code! 🌍");
 
 ```
  ___________________________________________
-/ "Any fool can write code that a computer \
-| can understand. Good programmers write   |
-| code that humans can understand."        |
+/ "Any fool can write code that a computer  \
+| can understand. Good programmers write    |
+| code that humans can understand."         |
 |                                           |
 | - Martin Fowler                           |
 |                                           |
 | P.S. My code is poetry... sometimes       |
-\ haiku, sometimes rap! 🎤                  /
- -------------------------------------------
+\ haiku, sometimes rap! 🎤                 /
+  ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
